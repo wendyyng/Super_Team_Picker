@@ -1,0 +1,12 @@
+<%- include("../partials/header.ejs") %>
+<div class="container d-flex justify-content-center align-items-center">
+  <div class="card p-2">
+  <form action="/cohorts" method="POST">
+    <%- include("../partials/formInput.ejs") %>
+    <div class="submit">
+      <button type="submit" class="btn btn-outline-primary" value="Create Post">Submit</button>
+    </div>
+  </form>
+</div>
+</div>
+  <%- include("../partials/footer.ejs") %>
