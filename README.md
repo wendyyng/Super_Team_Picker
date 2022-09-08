@@ -9,8 +9,8 @@ Super Team Picker is a web application built with Node and Express that allows u
 !["Home"](./img/home.png)
 !["Cohorts"](./img/cohorts.png)
 !["New Cohort"](./img/new.png)
-!["Show Individual Cohorts"](./img/show.png)
-!["Assign Teams"](./img/assign.png)
+!["Assign Teams - Number Per Team"](./img/assign1.png)
+!["Assign Teams - Team Count"](./img/assign2.png)
 
 ## Dependencies
 - Node.js
