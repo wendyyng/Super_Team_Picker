@@ -4,6 +4,9 @@ Super Team Picker is a web application built with Node and Express that allows u
 - Create, edit and delete cohorts
 - Randomly generate teams based on selected methods: team count/ number per team
 
+## Demo Link
+YouTube: https://youtu.be/XdJQSqc3XBE
+
 ## Final Product
 
 !["Home"](./img/home.png)
