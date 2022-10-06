@@ -10,10 +10,10 @@ YouTube: https://youtu.be/XdJQSqc3XBE
 ## Final Product
 
 !["Home"](https://user-images.githubusercontent.com/71687298/194415131-4d969ce7-e2cd-47f3-a2a7-2ad2c28ba668.png)
-!["Cohorts"](./img/cohorts.png)
-!["New Cohort"](./img/new.png)
-!["Assign Teams - Number Per Team"](./img/assign1.png)
-!["Assign Teams - Team Count"](./img/assign2.png)
+!["Cohorts"](https://user-images.githubusercontent.com/71687298/194415190-eaff97b1-f958-4d75-ab75-96285ff1b4a2.png)
+!["New Cohort"](https://user-images.githubusercontent.com/71687298/194415243-ad16f9b2-6664-4034-8f29-d4db805913d0.png)
+!["Assign Teams - Number Per Team"](https://user-images.githubusercontent.com/71687298/194417456-018c0f3b-be36-4a84-a54e-303aabbcba90.png)
+!["Assign Teams - Team Count"](https://user-images.githubusercontent.com/71687298/194416205-9f85f575-e317-424d-800c-6b871225548c.png)
 
 ## Dependencies
 - Node.js
