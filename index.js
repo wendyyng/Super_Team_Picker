@@ -34,7 +34,7 @@ app.set('view engine', 'ejs')
 app.set('views', 'views')
 
 // Server
-const PORT = 3000;
+const PORT = 5000;
 const DOMAIN = 'localhost'
 app.listen(PORT, DOMAIN, () => {
     console.log(`Server is listening on http://${DOMAIN}:${PORT}`)
