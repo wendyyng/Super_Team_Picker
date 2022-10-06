@@ -9,7 +9,7 @@ YouTube: https://youtu.be/XdJQSqc3XBE
 
 ## Final Product
 
-!["Home"](./img/home.png)
+!["Home"](https://user-images.githubusercontent.com/71687298/194415131-4d969ce7-e2cd-47f3-a2a7-2ad2c28ba668.png)
 !["Cohorts"](./img/cohorts.png)
 !["New Cohort"](./img/new.png)
 !["Assign Teams - Number Per Team"](./img/assign1.png)
